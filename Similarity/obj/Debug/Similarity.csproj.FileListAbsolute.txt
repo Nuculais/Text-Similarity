@@ -1,0 +1,12 @@
+C:\Users\Malin\Documents\Visual Studio 2017\Projects\Similarity\Similarity\obj\Debug\Similarity.csprojResolveAssemblyReference.cache
+C:\Users\Malin\Documents\Visual Studio 2017\Projects\Similarity\Similarity\bin\Debug\Similarity.exe.config
+C:\Users\Malin\Documents\Visual Studio 2017\Projects\Similarity\Similarity\bin\Debug\Similarity.exe
+C:\Users\Malin\Documents\Visual Studio 2017\Projects\Similarity\Similarity\bin\Debug\Similarity.pdb
+C:\Users\Malin\Documents\Visual Studio 2017\Projects\Similarity\Similarity\obj\Debug\Similarity.exe
+C:\Users\Malin\Documents\Visual Studio 2017\Projects\Similarity\Similarity\obj\Debug\Similarity.pdb
+C:\Users\Malin\Documents\Interaktiv Medieteknik\Data Mining\HW1\Similarity\Similarity\bin\Debug\Similarity.exe.config
+C:\Users\Malin\Documents\Interaktiv Medieteknik\Data Mining\HW1\Similarity\Similarity\bin\Debug\Similarity.exe
+C:\Users\Malin\Documents\Interaktiv Medieteknik\Data Mining\HW1\Similarity\Similarity\bin\Debug\Similarity.pdb
+C:\Users\Malin\Documents\Interaktiv Medieteknik\Data Mining\HW1\Similarity\Similarity\obj\Debug\Similarity.csprojResolveAssemblyReference.cache
+C:\Users\Malin\Documents\Interaktiv Medieteknik\Data Mining\HW1\Similarity\Similarity\obj\Debug\Similarity.exe
+C:\Users\Malin\Documents\Interaktiv Medieteknik\Data Mining\HW1\Similarity\Similarity\obj\Debug\Similarity.pdb
